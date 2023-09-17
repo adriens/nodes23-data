@@ -1,0 +1,1610 @@
+header
+"""complément - concepteur éditeur ou diffuseur"""
+"""concepteur ou éditeur ou diffuseur"""
+"""nombre d'ajournés passant les épreuves du 2nd groupe"""
+a10a
+a10b
+a10c
+a1a
+a1b
+a2a
+a2b
+a3a
+a3b
+a4a
+a4b
+a5a
+a5b
+a6a
+a6b
+a7a
+a7b
+a8a
+a8b
+a8c
+a9a
+a9b
+a_changer
+a_changé
+a_revoir
+aa1
+aa2
+aa3a
+aa3b
+aa3c
+aa3d
+aa4a
+aa4b
+aa4c
+aa4c_1a
+aa4c_1b
+aa4c_2a
+aa4c_2b
+aa4c_3a
+aa4c_3b
+aa4c_4a
+aa4c_4b
+aa4c_5a
+aa4c_5b
+aa4c_6a
+aa4c_6b
+aa4c_7a
+aa4c_7b
+aa4d
+aa4d_1a
+aa4d_1b
+aa4d_2a
+aa4d_2b
+aa4d_3a
+aa4d_3b
+aa4d_4a
+aa4d_4b
+aa4d_5a
+aa4d_5b
+aa4d_6a
+aa4d_6b
+aa4d_7a
+aa4d_7b
+aa4e
+aa4f
+aa4g
+aa4h
+aa4i
+aaca
+aacc
+aach
+aap1
+aap10
+aap11
+aap12
+aap13
+aap14
+aap14a
+aap14b
+aap14c
+aap14d
+aap14e
+aap14f
+aap15
+aap16
+aap17
+aap18a
+aap18b
+aap18c
+aap19
+aap2
+aap20
+aap21
+aap22
+aap23
+aap3
+aap4
+aap5
+aap6
+aap7
+aap8
+aap9
+absent_echo1
+abstention
+ac1
+ac2
+ac3a
+ac3b
+ac3c
+ac3d
+ac4a
+ac4b
+ac4c
+ac4c_1a
+ac4c_1b
+ac4c_2a
+ac4c_2b
+ac4c_3a
+ac4c_3b
+ac4c_4a
+ac4c_4b
+ac4c_5a
+ac4c_5b
+ac4d
+ac4d_1a
+ac4d_1b
+ac4d_2a
+ac4d_2b
+ac4d_3a
+ac4d_3b
+ac4d_4a
+ac4d_4b
+ac4d_5a
+ac4d_5b
+ac4e
+accompagnement
+accompagnement numerique
+ace1
+ace2
+ace3a
+ace3b
+ace4a
+ace4b
+achieved_quotas_t
+acte reglementaire
+activiteprincipale
+activites_multivalue
+activité
+actual
+ad1
+ad2
+ad3
+additional_address
+address_type
+admis
+admis avec mention ab
+admis avec mention b
+admis avec mention tb
+admis sans mention
+adresse
+adresse complete
+adresse de la station de recharge
+adresse du site
+adresse postale
+aemm
+age
+agea
+ager
+agerm
+agrement
+aide a l'entreprise
+aides aux parcours
+aire (en ha)
+ak1
+ak2
+ak3a
+ak3b
+ak3c
+ak3d
+ak4a
+ak4b
+ak4c
+ak4c_1a
+ak4c_1b
+ak4c_2a
+ak4c_2b
+ak4c_3a
+ak4c_3b
+ak4c_4a
+ak4c_4b
+ak4d
+ak4d_1a
+ak4d_1b
+ak4d_2a
+ak4d_2b
+ak4d_3a
+ak4d_3b
+ak4d_4a
+ak4d_4b
+al1
+al2
+al3
+al4
+al4_autre
+al5a
+al5b
+al5c
+al5d
+al6a
+al6b
+al6c
+al6d
+albuminurie
+ancien id
+anciennete
+anciennete_sup_5_ans
+ancnom
+ani
+annee
+annee de recensement
+annee_de_annonce
+annee_de_naissance
+annins
+anninsm
+annulation
+année
+année de dépistage
+ao1
+ao10
+ao11
+ao2a
+ao2b
+ao3a
+ao3b
+ao3c
+ao3d
+ao4
+ao5
+ao6
+ao7
+ao8
+ao9
+ap1
+ap2
+ap3
+ap4
+ap4_autre
+ap5
+ap5_autre
+ape
+apourvoirle
+apparten
+appelation officielle
+appellation officielle
+article
+as1
+as2
+as2a
+as2b
+as2c
+as3
+as3_autre
+as4a
+as4b
+as4c
+as4c_1
+as4c_10
+as4c_11
+as4c_2
+as4c_3
+as4c_4
+as4c_5
+as4c_6
+as4c_7
+as4c_8
+as4c_9
+as4d
+as5
+ascen
+at1
+at2
+at3a
+at3b
+at3c
+at3d
+at4a
+at4b
+at4c
+at4c_1a
+at4c_1b
+at4c_2a
+at4c_2b
+at4c_3a
+at4c_3b
+at4c_4a
+at4c_4b
+at4c_5a
+at4c_5b
+at4c_6a
+at4c_6b
+at4c_7a
+at4c_7b
+at4d
+at4d_1a
+at4d_1b
+at4d_2a
+at4d_2b
+at4d_3a
+at4d_3b
+at4d_4a
+at4d_4b
+at4d_5a
+at4d_5b
+at4d_6a
+at4d_6b
+at4d_7a
+at4d_7b
+at4e
+at4f
+atc
+atd_dsc
+atd_dsc2
+atd_dsc3
+autre adresse gestion
+average_value
+bail
+bain
+bato
+bd1
+bd2
+bd3
+bd4
+bd5
+besoin d'un rdv ?
+besoin d'un rendez-vous ?
+blancs
+boite postale
+brand
+budget total
+bv
+cadre
+can_dsc
+can_nam
+capay
+car_ad2
+car_ad3
+car_ad4
+car_adr
+car_fax
+car_nam
+car_tel
+car_tlx
+caracteristiques
+categorie
+category
+catl
+catégorie de produit
+catégorie statutaire
+certificationlocale
+chapitre
+chapitre_ordre
+chom
+chos
+cip13
+cip7
+circonscription
+city
+cl_echo1
+cl_echo2
+classe_unique
+classement du temps de parcours
+classes_sig
+clim
+clis
+close
+cm1
+cm2
+cmp_cod
+cn1
+cn2
+cn3
+cn4
+cn5
+cn6
+cn7
+cnat
+code budget
+code commune isee
+code de la civilité du dirigeant principal
+code iso 3166-3 zone
+code naf
+code nafa
+code of
+code officiel commune siège
+code officiel département
+code officiel epci
+code officiel région
+code ogr
+code postal
+code postal adresse gestion
+code postal de la commune
+code postal siège
+code rome
+code spécialité
+code td
+code_ape
+code_cog
+code_commune
+code_commune_insee
+code_fab
+code_forme
+code_formjur
+code_officiel_geographique_insee
+code_postal
+code_remboursement
+code_rome
+code_rome_2
+code_tva
+codeiso2
+codeiso3
+codenum3
+coderome
+codevoie
+codification statistique
+collectivité
+com_ecole
+commentaires
+commune
+commune - code insee
+commune de depart
+commune de destination
+commune de vente
+commune du site
+commune_maj
+communeemploi
+communelocalisation
+communes
+comp_num
+compagnie
+company_name
+competences
+competences_multivalue
+complément adresse
+complément adresse gestion
+complément d'adresse siège
+complément géo adresse gestion
+comportementpro
+comptage
+cond_long_label_unit
+cond_short_label_unit
+conditioning
+conditionsversement
+connaissancesinfo
+connaissancesinfo_multivalue
+consommation
+consumption_sector
+consumption_subsector
+contact
+contact téléphonique 1
+contact téléphonique 2
+contact_fax
+contact_mail
+contact_mobile
+contact_telephone
+contingent_quotas_t
+coordonnées gps
+coordonée y
+coordonée_x
+corps
+couple
+courriel du site
+cours
+cp1_cod
+cp4_dsc
+cpaysn
+cpaysra
+cpp_cod
+cpr_cod
+created
+created_date
+created_user
+creatininurie
+crpay
+cs1
+cs10a
+cs10b
+cs10c
+cs10d
+cs11a
+cs11b
+cs11c
+cs11d
+cs2
+cs24
+cs3
+cs3a
+cs3b
+cs4
+cs42
+cs5
+cs5_autre
+cs6
+cs7
+cs8
+cs8m
+cs9
+cssal
+ctn_dsc
+cty_dsc
+cuis
+cv1
+cv2a
+cv2b
+cv3
+cv4a
+cv4b
+cv5
+date
+date de création
+date de declaration
+date de dissolution
+date de début prévue
+date de déclaration
+date de délivrance
+date de fin prévue
+date de la donnée
+date de mise à jour
+date de naissance
+date de prise de vue
+date de publication
+date début effective
+date entrée stage
+date fin effective
+date prochaine session
+date sortie stage
+date_acq
+date_application
+date_echo1
+date_echo2
+date_emploi
+date_enreg
+date_entreprise_active
+date_etablis_actif
+datearchivage
+datecloture
+dateconseilmunicipal
+dateconvention
+datemiseajour
+datemiseenattente
+dateparution
+datepublication
+datequest
+daterejet
+datesperiodeversement
+datevalidite
+db_j91h5.hsu_xruwd.bâtiments_administratifs_de_la_pn_bdtopo_edi_const_.fid
+dci
+dd
+defaut_autoris_echo1
+denomination
+department
+derou
+description
+description du support
+description_horaires
+desquepossible
+destination
+devise
+difficulté d'accession
+dipl
+diplm
+diplome
+diplome court
+diplôme
+diplôme obtenu
+diplôme spécialité
+direction
+discount
+dispo
+distance (km)
+distance parcourue depuis la mairie
+distance_parcourue_depuis_lhotel_de_la_province_nord_en_km
+district
+division_naf
+docpdfurl
+domaine professionnel
+domaine professionnel code
+domaine_pro_2
+domaineactivite
+duree
+dureehebdo
+dureetempspartiel
+durée
+début session
+décompte
+délai moyen de paiement
+dénomination principale
+dépistage le dimanche ?
+dépistage le samedi ?
+déroulement ou utilisation
+désignation des marchandises
+ean13
+eau
+echelle
+egoul
+elec
+email
+empl
+emploi
+employeur_adressecorrespondance_complement
+employeur_adressecorrespondance_country
+employeur_adressecorrespondance_deliverypoint
+employeur_adressecorrespondance_distribution
+employeur_adressecorrespondance_street
+employeur_adressecorrespondance_subdivision
+employeur_email
+employeur_nomentreprise
+employeur_nompersphysique
+employeur_prenompersphysique
+employeur_type
+encadrement nécessaire
+enseigne
+enseigneetablissement
+ephmra
+es1
+es10a
+es10b
+es11a
+es11b
+es11c
+es11d
+es11e
+es11f
+es11g
+es12
+es13a
+es13b
+es13c
+es13d
+es13e
+es13f
+es13g
+es13h
+es13i
+es13j
+es14
+es2
+es3
+es3b
+es4
+es4b
+es5
+es5a
+es5b
+es6
+es7
+es7_autre
+es7a
+es7b
+es7c
+es8
+es8a
+es8b
+es9
+es9a
+es9b
+etat_action
+etat_session
+exer
+experience
+exprimés
+famille de produits
+fiche rome
+fichier
+fichier outil à télécharger
+fid
+fin session
+finalité
+flg_rem
+fonction
+formation
+formationenligne
+formationexigee
+forme de vente
+forme de vente num
+forme juridique
+forserviceaccompagnement
+fournitures
+gad
+gadm
+gaq
+gaqm
+garl
+gelg
+gen_tra
+gencod
+genre
+genrem
+geo
+geo point
+geo shape
+geo_point
+geo_point_2d
+geo_shape
+geoloc
+geolocalisation
+geomsimplify
+geomstyle
+gest_eq
+gestion
+gestionnaire
+globalid
+goudronné
+grand domaine
+groupe d'age décennal
+groupement
+grouping 1
+grouping 2
+h1
+h2
+h3
+h4
+h5
+h6
+handicap
+heure de début
+heure de fin
+horaire dépistage dimanche
+horaire dépistage jeudi
+horaire dépistage lundi
+horaire dépistage mardi
+horaire dépistage mercredi
+horaire dépistage samedi
+horaire dépistage vendredi
+horaire vaccination jeudi
+horaire vaccination lundi
+horaire vaccination mardi
+horaire vaccination mercredi
+horaire vaccination samedi
+horaire vaccination vendredi
+horaires
+horodatage dépistage
+horodatage vaccination
+hors_nc
+hs1_cod
+hs1_dsc
+hs1_txt
+hs2_cod
+hs2_dsc
+hs2_txt
+hs3_cod
+hs4_cod
+hs4_dsc
+hs5_cod
+hs5_dsc
+hs6_dsc
+id_station
+idaction
+idadrs
+idadrs1
+idadrs2
+idattribuant
+idbeneficiaire
+ident
+idlog
+idquar
+idrae
+idtronum
+iln
+ilnm
+ind_dsc
+indisponibilite
+individuels admis
+individuels présents
+info_lts
+information/orientation
+informationcomplementaire
+inpam
+inscrits
+insertion
+inter
+intitule naf
+intitule naf 40
+intitule naf 65
+intitulé
+intitulé session
+ira
+k.urine
+label naf
+langues
+langues_1
+langues_1_exige
+langues_1_libelle
+langues_1_niveau
+langues_2
+langues_2_exige
+langues_2_libelle
+langues_2_niveau
+langues_3
+langues_3_exige
+langues_3_libelle
+langues_3_niveau
+langues_affichage
+last_edited_date
+last_edited_user
+latitude
+lib_norme
+libabrev
+libadrs
+libadrs1
+libadrs2
+libcog
+libel_abr
+libelle
+libelle nafa
+libelle_cl_echo1
+libelle_cl_echo2
+libelle_commune
+libelle_court
+libelle_division_naf
+libelle_formjur
+libelle_naf
+libelle_province_ecole
+libelle_rome
+libelle_section_naf
+libelle_sexe
+libellé
+libellé long article
+libellé long chapitre
+libellé long ss-fonction
+libellé voie adresse gestion
+libellé voie siège
+libenr
+libnom
+libprnom
+libquar
+libvoie
+lien utiles
+lieu
+lieu de depart
+lieu de destination
+lieu de vente
+lieu dit
+lieu dit adresse gestion
+lieu dit siège
+lieu et matériel utile
+lieu_dit
+livraiso
+loc_dsc
+localisation
+localité
+logo
+longitude
+longueur
+mal
+market_need_t
+medicament_couteux
+mine
+minerai
+missionsprincipales
+mkt_cod
+mobilite
+mod_dsc
+mod_flw
+modify_time
+mois
+montant
+montant brut mensuel (169 heures)
+montant indemnité
+montant titré
+month
+motclef
+motif sortie
+motivation
+mots clé
+mots-clés
+mpb1
+mpb2
+mpb3
+mpb5
+mpb6
+mpb7
+mpb7b
+mpb8
+na.urine
+name
+nat
+natm
+nature
+nb de mouvements
+nb paiement
+nb_depart_de_feu
+nb_heure
+nbi
+nbjours
+nbpi
+nbpostes
+niveau_scolaire
+niveaudiplome
+niveauexperience
+niveauformation
+nom
+nom commercial
+nom commune siège
+nom de l'aménageur
+nom de l'opérateur de la station de recharge
+nom de l'outil
+nom de l'établissement
+nom de la commune
+nom de la commune en majuscule
+nom de la fiche pdf
+nom de la mise à l'eau
+nom de la plage
+nom de la station de recharge
+nom de la tribu
+nom de la tribu en majuscule
+nom du diplôme
+nom du fichier outil
+nom du ponton
+nom du port à sec
+nom officiel département
+nom officiel epci
+nom officiel région
+nom_court
+nom_minuscule
+nom_vernaculaire
+nomattribuant
+nombeneficiaire
+nombre
+nombre d'admis au 1er groupe
+nombre d'admis avec mention ab
+nombre d'admis avec mention b
+nombre d'admis avec mention tb
+nombre d'admis sans mention
+nombre d'admis totaux
+nombre d'admis à l'issue du 2nd groupe
+nombre d'inscrits
+nombre d'élèves en 1ère g
+nombre d'élèves en 1ère pro
+nombre d'élèves en 1ère st2s
+nombre d'élèves en 1ère std2a
+nombre d'élèves en 1ère sthr
+nombre d'élèves en 1ère sti2d
+nombre d'élèves en 1ère stl
+nombre d'élèves en 1ère stmg
+nombre d'élèves en 2nde gt
+nombre d'élèves en 2nde pro
+nombre d'élèves en 2nde sthr
+nombre d'élèves en 3ème
+nombre d'élèves en 4ème
+nombre d'élèves en 5ème
+nombre d'élèves en 6ème
+nombre d'élèves en cap 1ère année
+nombre d'élèves en cap 2ème année
+nombre d'élèves en ce1
+nombre d'élèves en ce2
+nombre d'élèves en clis
+nombre d'élèves en cm1
+nombre d'élèves en cm2
+nombre d'élèves en cp
+nombre d'élèves en fcil
+nombre d'élèves en gs
+nombre d'élèves en mc
+nombre d'élèves en ms
+nombre d'élèves en pré-élémentaire
+nombre d'élèves en ps
+nombre d'élèves en tle g
+nombre d'élèves en tle pro
+nombre d'élèves en tle st2s
+nombre d'élèves en tle std2a
+nombre d'élèves en tle sthr
+nombre d'élèves en tle sti2d
+nombre d'élèves en tle stl
+nombre d'élèves en tle stmg
+nombre d'élèves en élémentaire
+nombre d'élèves segpa
+nombre d'élèves ulis
+nombre de consultations publiées
+nombre de filles en 1ère g
+nombre de filles en 1ère pro
+nombre de filles en 1ère st2s
+nombre de filles en 1ère std2a
+nombre de filles en 1ère sthr
+nombre de filles en 1ère sti2d
+nombre de filles en 1ère stl
+nombre de filles en 1ère stmg
+nombre de filles en 2nde gt
+nombre de filles en 2nde pro
+nombre de filles en 2nde sthr
+nombre de filles en 3ème
+nombre de filles en 4ème
+nombre de filles en 5ème
+nombre de filles en 6ème
+nombre de filles en cap 1ère année
+nombre de filles en cap 2ème année
+nombre de filles en fcil
+nombre de filles en mc
+nombre de filles en tle g
+nombre de filles en tle pro
+nombre de filles en tle st2s
+nombre de filles en tle std2a
+nombre de filles en tle sthr
+nombre de filles en tle sti2d
+nombre de filles en tle stl
+nombre de filles en tle stmg
+nombre de fonctionnaires
+nombre de garçons en 1ère g
+nombre de garçons en 1ère pro
+nombre de garçons en 1ère st2s
+nombre de garçons en 1ère std2a
+nombre de garçons en 1ère sthr
+nombre de garçons en 1ère sti2d
+nombre de garçons en 1ère stl
+nombre de garçons en 1ère stmg
+nombre de garçons en 2nde gt
+nombre de garçons en 2nde pro
+nombre de garçons en 2nde sthr
+nombre de garçons en 3ème
+nombre de garçons en 4ème
+nombre de garçons en 5ème
+nombre de garçons en 6ème
+nombre de garçons en cap 1ère année
+nombre de garçons en cap 2ème année
+nombre de garçons en fcil
+nombre de garçons en mc
+nombre de garçons en tle g
+nombre de garçons en tle pro
+nombre de garçons en tle st2s
+nombre de garçons en tle std2a
+nombre de garçons en tle sthr
+nombre de garçons en tle sti2d
+nombre de garçons en tle stl
+nombre de garçons en tle stmg
+nombre de naissances
+nombre de patients-porteurs de bhre
+nombre de points de charge
+nombre de présents
+nombre de refusés au 1er groupe
+nombre de refusés totaux
+nombre de refusés à l'issue du 2nd groupe
+nombre max de participants
+nombre total d'élèves
+nombre total de classes
+nombre total de filles
+nombre total de garçons
+nombre_de_filles_en_pro_total
+noms_illustration
+non
+not_cod
+note de chapitre
+note de renvoi
+note de section
+note_de_chapitre_html
+note_de_renvoi_html
+note_de_section_html
+notificationue
+nuls
+num_cour
+numero
+numero_maj
+numeromaj_nc
+numéro de l'établissement
+numéro de rup
+numéro de voie siège
+n° bv
+n° dfpc
+n° tél du site
+n°etablissement
+objectid
+objectifs de l'outil
+objet
+objet social 1
+objet social 2
+observation
+observations sur la station
+organisateur
+organisme
+origine
+oui
+ouvert
+ouvert/fermé 2023
+page facebook
+page web du site
+path_name
+path_number
+path_type
+patronyme
+patronyme de l'établissement
+pax
+pays
+pays adresse gestion
+perimetre (en m)
+permis
+permis_1
+permis_1_exige
+permis_1_libelle
+permis_2
+permis_2_exige
+permis_2_libelle
+permis_3
+permis_3_exige
+permis_3_libelle
+permis_affichage
+permis_multivalue
+peupl
+photo_maison_commune
+photoprincipale
+photoprincipale_copyright
+photoprincipale_id
+photoprincipale_nom
+photoprincipale_pathhd
+photoprincipale_pathvignette
+photoprincipale_priorite
+phrase_lien
+piepers
+pkg_blk
+pkg_dsc
+poids importé
+point
+point_geo
+pond
+population comptée à part dont au titre de l'appartenance à une tribu de la commune (3)
+population comptée à part totale (2)
+population municipale (1)
+population totale avec doubles comptes (4)
+position
+position géographique du site
+position sh
+position statutaire
+position_ordre
+pourcentagesubvention
+pr1a
+pr1b
+pr1c
+pr1d
+pr1e
+pr1f
+pr1g
+pr1h
+pr2a
+pr2b
+pr2c
+pr2d
+pr2e
+pr2f
+pr2g
+pr2h
+prenom
+presentationcontexte
+prf_dsc
+price
+price_date
+price_index
+price_index_wholesalemarket
+price_statement_type
+prise de rdv en ligne
+priseposte
+prix_brousse
+prix_cfp
+prix_fab
+prix_ht
+prix_iles
+prix_public
+product_family
+product_subfamily
+produit
+propose de la vaccination ?
+propose du dépistage ?
+prov
+prov_ecole
+province
+province de résidence
+province_etab
+province_maj
+provra
+provtra
+présents
+psol
+public cible
+publication sur le web
+publics specifiques
+qualifications
+quartier
+quotas_begin
+quotas_end
+raa_connu
+raa_connu_crc
+radie
+raisonentreprise
+rech
+reference
+referencedecision
+refri
+refus_enft_echo1
+refus_prt_echo1
+regime
+regimecode
+remarque réussite
+reserve_hospitaliere
+retrocession
+rid
+ridet
+rtx_dsc
+rtx_rat
+rul_cod
+réalisé
+réussite
+sal
+salariés
+savoir
+savoirfaire
+savoirsetre
+savoirsetre_multivalue
+scol
+scolaires admis
+scolaires présents
+sd1
+sd10
+sd11
+sd12
+sd13a
+sd13b
+sd2
+sd2a
+sd2b
+sd3
+sd4
+sd7a
+sd7b
+sd8
+sd9
+sect10
+sect21
+sect5
+secteur
+secteur d'activite
+secteur de vente
+secteur habitation
+secteur_etab
+secteurs d'activités
+section lc
+section_naf
+section_ordre
+sens
+services
+sexe
+shape__are
+shape__area
+shape__len
+shape__length
+shape_leng
+shd_ad2
+shd_ad3
+shd_ad4
+shd_adr
+shd_fax
+shd_nam
+shd_nam2
+shd_nam3
+shd_pub
+shd_tel
+si_clis
+si_segpa_
+si_ulis
+sigle
+sigleetablissement
+signalee
+siret
+site
+site internet
+site web
+site_pagefb
+sm1
+sm2a
+sm2b
+sm2c
+sm3
+sm4
+sm4_autre
+sm5
+sm6
+sm7
+somme de dépenses annuelles (xfp)
+source
+spe_tra
+specificites
+specifites_multivalue
+spécialité
+ss-fonction
+ss1
+ss10
+ss11
+ss12
+ss1a
+ss1b
+ss2
+ss3
+ss4
+ss4a
+ss4b
+ss4c
+ss5
+ss6
+ss6_autre
+ss6a
+ss6b
+ss6c
+ss6cc
+ss7
+ss7_autre
+ss7a
+ss7b
+ss7bb
+ss7c
+ss7cc
+ss8
+ss9
+stat
+statant
+station
+statut
+statut du candidat
+statutinstallation
+stm
+stoc
+structure_url_fiche
+structure_url_logo
+surf
+surface brulee
+surface de vente (m2) tranches recodées
+surface de vente estimée (m2) : ouverte
+surface_bati
+surface_estime
+surface_reelle
+symbol
+série
+t2a
+tact
+tactm
+tap
+tapp
+tar_all
+tar_dsc
+tar_pr1
+tar_pr2
+tar_pr3
+tar_pr4
+tar_t01
+tar_t02
+tar_t03
+tar_t04
+tar_t05
+tar_t06
+tar_t07
+tar_t08
+tar_t09
+tar_t10
+tar_t11
+tar_t12
+tar_t13
+tar_t14
+tar_t15
+tat
+taux d'absentéisme (just + injust)
+taux de reussite
+taux de réussite
+taux de réussite %
+taux de réussite individuels
+taux de réussite scolaire
+taux de réussite total
+taux horaire brut
+taux_de_reussite_bacp_
+taux_de_reussite_brevet_pro_
+taux_de_reussite_bts_
+taux_de_reussite_cap
+taux_de_reussite_du_mention_complementaire_
+taux_de_reussite_en_pourcentage
+tb1
+tb2
+tb3
+tb4
+tb5
+tb6
+tb7
+tb8
+tci
+temps écoulé depuis l'hôtel de la province nord
+temps écoulé depuis la mairie
+tfixe
+tgc
+theme1
+theme2
+theme3
+title
+titre
+titre court
+titre de la formation
+titre de la section
+titre du chapitre
+titrenom
+titreoffre
+tod_dsc
+tonnage brut
+tonnage cobalt contenu
+tonnage de nickel contenu
+tonnage humide
+tonnage métal (co)
+tonnage métal (ni)
+tonnage nickel contenu
+tonnes de déchets
+tonnes de nickel contenu
+tonnes humides
+top_500
+top_dsc
+top_dsc2
+top_dsc3
+total admis
+total présents
+tp
+tpp
+tr1_dsc
+tr2_cod
+tr2_dsc
+traant
+trace
+trans
+transect
+travaux
+trm
+tspa
+tte
+typ
+typc14
+type
+type d'action
+type d'invertébré (code)
+type d'établissement
+type de demande
+type de diplôme
+type de déchets
+type de poisson (code)
+type de procédure
+type de substrat
+type de substrat (libellé)
+type de support
+type de transport pour y accéder
+type de vente
+type de voie siège
+type de zone
+type fonction publique
+type_acq
+typeau
+typecontrat
+typempl
+typepublic
+typevoie
+typmenr
+téléphone
+unite_alb
+unite_creat
+unite_k
+unite_na
+uniteduree
+unité
+unité supp.
+uom_cod1
+uom_cod2
+uom_cod3
+uom_dsc
+updated
+url de la fiche descriptive de la structure
+url du logo de la structure
+url_fiche_pdf_a_telecharger
+url_illustration
+url_photo
+url_preview_pdf
+urlpagefb
+urlpageweb
+valeur fab (en millions de xfp)
+valeur fab nickel (en millions de xfp)
+valid_from
+valid_to
+value_wholesalemarket_fr
+variety
+vf1
+vf2
+vf3
+vf4a
+vf4b
+vf4c
+vi1
+vi2
+vi2_autre
+vi3
+vi3_autre
+vi4
+vi4_autre
+vi5
+vi6
+vi6_autre
+vi7
+vi7_autre
+vi8
+vi8_autre
+vignette
+ville
+voie
+voit
+votants
+vs1
+vs2
+vs3
+vs4
+vs5
+vs5_autre
+wc
+weight_survey_kg
+weight_wholesalemarket_kg
+withgeo
+x
+y
+zip_code
+zone d'exportation
+zonesdeplacement_multivalue
+﻿annee_mois
+﻿année
+﻿année de paiement
+﻿atd_cod
+﻿campagne
+﻿car_cod
+﻿cod
+﻿code naf
+﻿cog
+﻿commune
+﻿commune_minus
+﻿cp4_cod
+﻿ctn_typ
+﻿cty_cod
+﻿date
+﻿date_publication
+﻿db_j91h5.hsu_xruwd.plages_de_la_province_nord_plages_pnord.fid
+﻿directions ou services de la nouvelle-calédonie
+﻿enseigne
+﻿exercice budgétaire
+﻿geo point
+﻿grand domaine
+﻿hs1_cod
+﻿hs2_cod
+﻿hs4_cod
+﻿hs5_cod
+﻿hs6_cod
+﻿id
+﻿id_sequentiel
+﻿identifiant
+﻿idlog
+﻿idsession
+﻿idstagiaire
+﻿ile
+﻿ind_cod
+﻿lib long lc
+﻿lib_court
+﻿libelle
+﻿libelle_long
+﻿loc_cod
+﻿mod_cod
+﻿mois
+﻿mois-année
+﻿mois_année
+﻿n
+﻿netab
+﻿nom
+﻿nom de la collectivité
+﻿nom de la structure
+﻿nom_commune
+﻿num_graf
+﻿num_ligne
+﻿numero
+﻿numéro de décision
+﻿numéro de l'établissement
+﻿n° de la fiche
+﻿n°obs
+﻿objectid
+﻿pkg_cod
+﻿prf_cod
+﻿product_code
+﻿province
+﻿psychotrope
+﻿rentrée scolaire
+﻿rid7
+﻿rtx_cod
+﻿section
+﻿session
+﻿shd_cod
+﻿statut
+﻿structure_nom
+﻿stupefiant
+﻿tod_cod
+﻿top_cod
+﻿tr1_cod
+﻿type
+﻿type d'importation
+﻿type de bhre
+﻿type de consommation de combustible
+﻿type de prix
+﻿uom_cod
+﻿year
