@@ -3,7 +3,7 @@ DETACH DELETE n;
 //dbms.security.allow_csv_import_from_file_urls=false;
 
 
-LOAD CSV WITH HEADERS FROM 'file:///catalog_files-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//catalog_files-with-headers.csv' AS line
 CREATE (:Dataset {
   dataset_id: line.dataset_id,
   filename: line.filename,
@@ -17,7 +17,7 @@ CREATE (:Dataset {
 MATCH (d:Dataset)
 RETURN d;
 
-LOAD CSV WITH HEADERS FROM 'file:///publishers-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//publishers-with-headers.csv' AS line
 CREATE (:Publisher {
   publisher: line.publisher,
   shortname: line.shortname,
@@ -40,7 +40,7 @@ CREATE (:Publisher {
 MATCH (p:Publisher)
 RETURN p;
 
-LOAD CSV WITH HEADERS FROM 'file:///catalog_nc-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//catalog_nc-with-headers.csv' AS line
 CREATE (:CatalogItem {
   datasetid: line.datasetid,
   title: line.title,
@@ -73,7 +73,7 @@ CREATE (:CatalogItem {
 MATCH (c:CatalogItem)
 RETURN c;
 
-LOAD CSV WITH HEADERS FROM 'file:///headers_all-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//headers_all-with-headers.csv' AS line
 CREATE (:DatasetHeader {
   dataset_id: line.dataset_id,
   header: line.header
@@ -81,7 +81,7 @@ CREATE (:DatasetHeader {
 MATCH (h:DatasetHeader)
 RETURN h;
 
-LOAD CSV WITH HEADERS FROM 'file:///licences-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//licences-with-headers.csv' AS line
 CREATE (:License {
   cat: line.cat,
   id: line.id,
@@ -94,7 +94,7 @@ CREATE (:License {
 MATCH (l:License)
 RETURN l;
 
-LOAD CSV WITH HEADERS FROM 'file:///keywords_dict-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//keywords_dict-with-headers.csv' AS line
 CREATE (:Keyword {
   keyword: line.keyword
   });
@@ -102,7 +102,7 @@ CREATE (:Keyword {
 MATCH (k:Keyword)
 RETURN k;
 
-LOAD CSV WITH HEADERS FROM 'file:///un_stats_sdg_goal_list-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//un_stats_sdg_goal_list-with-headers.csv' AS line
 CREATE (:UnitedNationsSustainableDevelopmentGoal {
   code: line.code,
   title: line.title,
@@ -113,7 +113,7 @@ CREATE (:UnitedNationsSustainableDevelopmentGoal {
 MATCH (g:UnitedNationsSustainableDevelopmentGoal)
 RETURN g;
 
-LOAD CSV WITH HEADERS FROM 'file:///un_stats_sdg_goal_indicator-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//un_stats_sdg_goal_indicator-with-headers.csv' AS line
 CREATE (:UnitedNationsSustainableDevelopmentGoalIndicator {
   goal: line.goal,
   target: line.target,
@@ -156,7 +156,7 @@ WHERE i.keywords CONTAINS k.keyword
 CREATE (k)-[rs:IS_KEYWORD_OF]->(i);
 
 // 
-LOAD CSV WITH HEADERS FROM 'file:///entreprises_actives_au_ridet-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//entreprises_actives_au_ridet-with-headers.csv' AS line
 CREATE (:EntrepriseActiveAuRidet {
   rid7: line.rid7,
   denomination: line.denomination,
@@ -181,7 +181,7 @@ RETURN e;
 
 
 
-LOAD CSV WITH HEADERS FROM 'file:///etablissements_actifs_au_ridet-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//etablissements_actifs_au_ridet-with-headers.csv' AS line
 CREATE (:EtablissementActifAuRidet {
   rid7: line.rid7,
   date_etablis_actif: line.date_etablis_actif,
@@ -215,7 +215,7 @@ WHERE p.rid7 = e.rid7
 CREATE (p)-[rs:LINKED_TO_ENTERPRISE]->(e);
 
 // Link Catalogtems and UN goals
-LOAD CSV WITH HEADERS FROM "file:///catalog_nc_un_stats_sdg_goal-with-headers.csv" AS row
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/adriens/nodes23-data/main//catalog_nc_un_stats_sdg_goal-with-headers.csv" AS row
 MATCH (i:CatalogItem), (g:UnitedNationsSustainableDevelopmentGoal)
 WHERE
     i.datasetid = row.dataset_id AND
@@ -224,7 +224,7 @@ CREATE (i)-[r:IMPLEMENTS_UNITED_NATION_GOAL]->(g)
 RETURN r;
 
 // Create Theme Nodes
-LOAD CSV WITH HEADERS FROM 'file:///themes-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//themes-with-headers.csv' AS line
 CREATE (:Theme {
   id: line.id  });
 
@@ -232,7 +232,7 @@ MATCH (t:Theme)
 RETURN t;
 
 // Link CatalogItem w. theme
-LOAD CSV WITH HEADERS FROM "file:///catalog_themes-with-headers.csv" AS row
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/adriens/nodes23-data/main//catalog_themes-with-headers.csv" AS row
 MATCH (i:CatalogItem), (t:Theme)
 WHERE
     i.datasetid = row.dataset_id AND
@@ -240,7 +240,7 @@ WHERE
 CREATE (i)-[r:IMPLEMENTS_THEME]->(t)
 RETURN r;
 
-LOAD CSV WITH HEADERS FROM 'file:///communes_nc_limites_terrestres_simplifiees-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//communes_nc_limites_terrestres_simplifiees-with-headers.csv' AS line
 CREATE (:CommuneNC {
   code_officiel_geographique_insee: line.code_officiel_geographique_insee,
     objectid: line.objectid,
@@ -259,7 +259,7 @@ WHERE
 CREATE (p)-[rs:LOCATED_IN]->(c);
 
 // Load countries
-LOAD CSV WITH HEADERS FROM 'file:///liste_pays_territoires_etrangers-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//liste_pays_territoires_etrangers-with-headers.csv' AS line
 CREATE (:Country {
   codeiso2: line.codeiso2,
     codeiso3: line.codeiso3,
@@ -283,7 +283,7 @@ WHERE
 CREATE (p)-[rs:FROM_COUNTRY]->(c);
 
 // Create Header entities 
-LOAD CSV WITH HEADERS FROM 'file:///headers_dict-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//headers_dict-with-headers.csv' AS line
 CREATE (:Header {
   header: line.header
   });
@@ -291,7 +291,7 @@ MATCH (h:Header)
 RETURN h;
 
 // Link Header to CatalogItem/dataset with  
-LOAD CSV WITH HEADERS FROM "file:///headers_all-with-headers.csv" AS row
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/adriens/nodes23-data/main//headers_all-with-headers.csv" AS row
 MATCH (h:Header), (c:CatalogItem)
 WHERE
     c.datasetid = row.dataset_id AND
@@ -300,7 +300,7 @@ CREATE (h)-[r:IS_HEADER_OF]->(c)
 RETURN r;
 
 // Load Pacific Data Hub Topics
-LOAD CSV WITH HEADERS FROM 'file:///pacific_datahub_topics-with-headers.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/adriens/nodes23-data/main//pacific_datahub_topics-with-headers.csv' AS line
 CREATE (:PacificDataHubTopic {
   id: line.id,
   description: line.description,
@@ -310,13 +310,10 @@ MATCH (p:PacificDataHubTopic)
 RETURN p;
 
 // Link PacificDataHubTopic and UnitedNationsSustainableDevelopmentGoal
-LOAD CSV WITH HEADERS FROM "file:///pacific_datahub_topics_un_stats_sdg_goal-with-headers.csv" AS row
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/adriens/nodes23-data/main//pacific_datahub_topics_un_stats_sdg_goal-with-headers.csv" AS row
 MATCH (t:PacificDataHubTopic), (g:UnitedNationsSustainableDevelopmentGoal)
 WHERE
     t.id = row.pacific_hub_topic AND
     g.code = row.un_stats_sdg_goal 
 CREATE (t)-[r:MAPS_TO_UN_SDG_GOAL]->(g)
 RETURN r;
-
-// show graph
-call apoc.meta.graph();
