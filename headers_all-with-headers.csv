@@ -998,7 +998,6 @@ entreprises-actives-au-ridet,code_ape
 entreprises-actives-au-ridet,code_commune
 entreprises-actives-au-ridet,code_formjur
 entreprises-actives-au-ridet,date_emploi
-entreprises-actives-au-ridet,date_entreprise_active
 entreprises-actives-au-ridet,denomination
 entreprises-actives-au-ridet,division_naf
 entreprises-actives-au-ridet,hors_nc
@@ -1008,9 +1007,10 @@ entreprises-actives-au-ridet,libelle_formjur
 entreprises-actives-au-ridet,libelle_naf
 entreprises-actives-au-ridet,libelle_section_naf
 entreprises-actives-au-ridet,province
+entreprises-actives-au-ridet,rid7
 entreprises-actives-au-ridet,salariés
 entreprises-actives-au-ridet,section_naf
-entreprises-actives-au-ridet,﻿rid7
+entreprises-actives-au-ridet,﻿date_entreprise_active
 entreprises_aemporter_clickandcollect_livraison,adresse
 entreprises_aemporter_clickandcollect_livraison,commune
 entreprises_aemporter_clickandcollect_livraison,geolocalisation
@@ -1470,7 +1470,7 @@ posts_a_la_une,noms_illustration
 posts_a_la_une,phrase_lien
 posts_a_la_une,titre
 posts_a_la_une,url_illustration
-posts_a_la_une,﻿n
+posts_a_la_une,﻿id
 prix-des-energies-depuis-2009,mois
 prix-des-energies-depuis-2009,nombre
 prix-des-energies-depuis-2009,unité
@@ -3098,6 +3098,12 @@ subventions_ville_de_noumea,objet
 subventions_ville_de_noumea,pourcentagesubvention
 subventions_ville_de_noumea,referencedecision
 subventions_ville_de_noumea,﻿objectid
+tap_nc,code  rome
+tap_nc,durées de résidence cpel si /
+tap_nc,intitulé rome
+tap_nc,intitulé spécifique
+tap_nc,niveau de formation indicatif ou exigé  si *
+tap_nc,﻿domaines rome
 top-10-prenoms-a-noumea-depuis-1860,annee_de_naissance
 top-10-prenoms-a-noumea-depuis-1860,code_commune_insee
 top-10-prenoms-a-noumea-depuis-1860,commune

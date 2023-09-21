@@ -388,6 +388,7 @@ cn5
 cn6
 cn7
 cnat
+code  rome
 code budget
 code commune isee
 code de la civilité du dirigeant principal
@@ -543,7 +544,6 @@ date_echo1
 date_echo2
 date_emploi
 date_enreg
-date_entreprise_active
 date_etablis_actif
 datearchivage
 datecloture
@@ -595,6 +595,7 @@ duree
 dureehebdo
 dureetempspartiel
 durée
+durées de résidence cpel si /
 début session
 décompte
 délai moyen de paiement
@@ -787,7 +788,9 @@ intitule naf
 intitule naf 40
 intitule naf 65
 intitulé
+intitulé rome
 intitulé session
+intitulé spécifique
 ira
 k.urine
 label naf
@@ -899,6 +902,7 @@ nbi
 nbjours
 nbpi
 nbpostes
+niveau de formation indicatif ou exigé  si *
 niveau_scolaire
 niveaudiplome
 niveauexperience
@@ -1203,6 +1207,7 @@ remarque réussite
 reserve_hospitaliere
 retrocession
 rid
+rid7
 ridet
 rtx_dsc
 rtx_rat
@@ -1541,9 +1546,11 @@ zonesdeplacement_multivalue
 ﻿ctn_typ
 ﻿cty_cod
 ﻿date
+﻿date_entreprise_active
 ﻿date_publication
 ﻿db_j91h5.hsu_xruwd.plages_de_la_province_nord_plages_pnord.fid
 ﻿directions ou services de la nouvelle-calédonie
+﻿domaines rome
 ﻿enseigne
 ﻿exercice budgétaire
 ﻿geo point
@@ -1570,7 +1577,6 @@ zonesdeplacement_multivalue
 ﻿mois
 ﻿mois-année
 ﻿mois_année
-﻿n
 ﻿netab
 ﻿nom
 ﻿nom de la collectivité

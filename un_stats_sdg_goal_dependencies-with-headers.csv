@@ -1,0 +1,27 @@
+source,target,explanation
+1,,SDG-1 (No Poverty) is the foundational goal and does not depend on any other SDG.
+2,1,SDG-2 (Zero Hunger) depends on SDG-1 (No Poverty) since poverty affects access to food.
+2,6,SDG-2 (Zero Hunger) also depends on SDG-6 (Clean Water and Sanitation) as clean water is essential for food production.
+3,2,SDG-3 (Good Health and Well-being) depends on SDG-2 (Zero Hunger) because proper nutrition is critical for health.
+3,4,SDG-3 (Good Health and Well-being) also depends on SDG-4 (Quality Education) as education can lead to better health outcomes.
+4,,SDG-4 (Quality Education) is a foundational goal that does not directly depend on any other SDG.
+5,4,SDG-5 (Gender Equality) depends on SDG-4 (Quality Education) as education empowers women and promotes gender equality.
+5,6,SDG-5 (Gender Equality) also depends on SDG-6 (Clean Water and Sanitation) as access to clean water can reduce the burden of household chores on women.
+6,,SDG-6 (Clean Water and Sanitation) is a foundational goal that does not directly depend on any other SDG.
+7,6,SDG-7 (Affordable and Clean Energy) depends on SDG-6 (Clean Water and Sanitation) since energy generation often requires water resources.
+7,9,"SDG-7 (Affordable and Clean Energy) also depends on SDG-9 (Industry, Innovation, and Infrastructure) for the development of clean energy technologies."
+8,9,"SDG-8 (Decent Work and Economic Growth) depends on SDG-9 (Industry, Innovation, and Infrastructure) for creating job opportunities."
+8,17,SDG-8 (Decent Work and Economic Growth) also depends on SDG-17 (Partnerships for the Goals) for international cooperation and economic stability.
+9,,"SDG-9 (Industry, Innovation, and Infrastructure) is a foundational goal that promotes economic growth and does not directly depend on any other SDG."
+10,8,SDG-10 (Reduced Inequality) depends on SDG-8 (Decent Work and Economic Growth) as economic growth can reduce inequality.
+10,16,"SDG-10 (Reduced Inequality) also depends on SDG-16 (Peace, Justice, and Strong Institutions) for promoting inclusive societies."
+11,9,"SDG-11 (Sustainable Cities and Communities) depends on SDG-9 (Industry, Innovation, and Infrastructure) for building sustainable urban infrastructure."
+11,13,SDG-11 (Sustainable Cities and Communities) also depends on SDG-13 (Climate Action) for addressing climate-related challenges in cities.
+12,7,SDG-12 (Responsible Consumption and Production) depends on SDG-7 (Affordable and Clean Energy) as energy efficiency is crucial for sustainable production.
+12,13,SDG-12 (Responsible Consumption and Production) also depends on SDG-13 (Climate Action) for reducing the environmental impact of consumption.
+13,,SDG-13 (Climate Action) is a foundational goal that addresses climate change and does not directly depend on any other SDG.
+14,13,SDG-14 (Life Below Water) depends on SDG-13 (Climate Action) for mitigating the impacts of climate change on oceans.
+14,15,SDG-14 (Life Below Water) also depends on SDG-15 (Life on Land) for protecting coastal ecosystems.
+15,,SDG-15 (Life on Land) is a foundational goal that focuses on terrestrial ecosystems and does not directly depend on any other SDG.
+16,,"SDG-16 (Peace, Justice, and Strong Institutions) is a foundational goal that promotes peaceful and inclusive societies and does not directly depend on any other SDG."
+17,,SDG-17 (Partnerships for the Goals) is a foundational goal that emphasizes global cooperation and does not directly depend on any other SDG.
