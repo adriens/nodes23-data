@@ -168,5 +168,14 @@ WHERE
 CREATE (t)-[r:MAPS_TO_UN_SDG_GOAL]->(g)
 RETURN r;
 
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/adriens/nodes23-data/main//un_stats_sdg_goal_dependencies-with-headers.csv" AS row
+MATCH (g1:UnitedNationsSustainableDevelopmentGoal), (g2:UnitedNationsSustainableDevelopmentGoal)
+WHERE
+    g1.code = row.source AND
+    g2.code = row.target
+CREATE (g1)-[r:SUB_SDG_GOAL_OF]->(g2)
+RETURN r;
+
+
 // show graph
 call apoc.meta.graph();
